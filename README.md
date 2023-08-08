@@ -1,16 +1,11 @@
-# instagram
+InstaAnimate is a visually captivating Instagram client developed using the Flutter framework, with a strong emphasis on animations and slivers. This app offers a unique and engaging user experience, combining smooth animations and creative use of sliver widgets for various UI components.
 
-A new Flutter project.
+InstaAnimate App
 
-## Getting Started
+Features
+Stunning Animations: develop beauty animations.
+Sliver Widgets: Employ sliver-based UI components to create dynamic scrolling effects and enhance navigation.
+Profile Pages: Display user profiles with dynamic headers and animations for an immersive experience.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Screencast from 08-05-2023 09:48:27 AM.webm](https://github.com/NavidSharifian79/instagram_app/assets/62116436/47bac003-b0bf-4379-8a5e-624f934dbe0f)
